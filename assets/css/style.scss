@@ -2,3 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+
+.bio-pic {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  width: 33%;
+  height: auto;
+}
