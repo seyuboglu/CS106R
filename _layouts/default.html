@@ -12,10 +12,7 @@
   <body>
 <!--     <a id="skip-to-content" href="#content">Skip to the content.</a>
  -->
-    {{ page.url | jsonify }}
-    ========================
-    {{ site.github | jsonify }}
-    {% if page.url == site.github.baseurl %}   
+    {% if page.url == '/' %}   
       <header class="page-header" role="banner">
         <h1 class="project-name">{{ page.title | default: site.github.repository_name }}</h1>
         <h2 class="project-tagline">{{ page.description }}</h2> 
