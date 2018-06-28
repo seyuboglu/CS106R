@@ -30,6 +30,10 @@ Option 4:
 
 We have them email us their assignments (lol)
 
+Option 5: 
+
+Use google education assignment submissions. 
+
 Helpful links for the discussion:
 [Suggestions 1](https://cseducators.stackexchange.com/questions/1205/how-can-i-automate-the-grading-of-programming-assignments)
 [Repl.it (seems interesting)](https://repl.it/site/classrooms)
