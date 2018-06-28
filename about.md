@@ -5,7 +5,6 @@ title: About
 We are two Computer Science students from Stanford University who have received fellowships through the Haas Center of Public Service. We are bringing four years of collective experience in introductory computer science education with us to Curitiba, where we will be implementing a Computer Science curriculum built specifically for introducing passionate high school students to the world of research at a University level.
 
 ---
-
 # Bios
 ## Geoffrey Angus
 Hello! My name is Geoff Angus and I am a student at Stanford University studying Computer Science. First and foremost, I am a Californian and an avid musician. I am also a rock climber and have climbed everywhere from Yosemite, Joshua Tree, and Fontainebleau in France. Some of my favorite things are dogs, comic books, and food!
