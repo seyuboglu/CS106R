@@ -12,17 +12,27 @@
   <body>
 <!--     <a id="skip-to-content" href="#content">Skip to the content.</a>
  -->
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.github.project_tagline }}</h2>
-<!--       {% if site.github.is_project_page %}
- -->        
-        <a href="https://geoffreyangus.github.io/CS106R/about" class="btn">Syllabus</a>
+   {% if site.github.is_project_page %}
+      <header class="page-header" role="banner">
+        <h1 class="project-name">{{ page.title | default: site.github.repository_name }}</h1>
+        <h2 class="project-tagline">{{ page.description }}</h2>
+  <!--       {% if site.github.is_project_page %}
+   -->        
+          <a href="https://geoffreyangus.github.io/CS106R/" class="btn">Home</a>
+          <a href="https://geoffreyangus.github.io/CS106R/about" class="btn">Syllabus</a>
+          <a href="https://geoffreyangus.github.io/CS106R/about" class="btn">About</a>
+          <a href="https://geoffreyangus.github.io/CS106R/about" class="btn">FAQ</a>
+        <!-- {% endif %} -->
+      </header>
+    {% endif %}
+    {% if site.github.is_project_page == false %}
+      <div class="nav-bar">
+        <a href="https://geoffreyangus.github.io/CS106R/" class="btn">Home</a>
+        <a href="https://geoffreyangus.github.io/CS106R/syllabus" class="btn">Syllabus</a>
         <a href="https://geoffreyangus.github.io/CS106R/about" class="btn">About</a>
-        <a href="https://geoffreyangus.github.io/CS106R/about" class="btn">FAQ</a>
-      <!-- {% endif %} -->
-    </header>
-
+        <a href="https://geoffreyangus.github.io/CS106R/faq" class="btn">FAQ</a>
+      </div>
+    {% endif %}
     <main id="content" class="main-content" role="main">
       {{ content }}
 
