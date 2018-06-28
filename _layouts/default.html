@@ -12,6 +12,7 @@
   <body>
 <!--     <a id="skip-to-content" href="#content">Skip to the content.</a>
  -->
+    {{ variable | jsonify }}
     {% if page.url == site.github.baseurl %}   
       <header class="page-header" role="banner">
         <h1 class="project-name">{{ page.title | default: site.github.repository_name }}</h1>
