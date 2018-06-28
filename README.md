@@ -1,39 +1,12 @@
-## Welcome to GitHub Pages
 
-[Link](https://geoffreyangus.github.io/CS106R/about)
 
-You can use the [editor on GitHub](https://github.com/geoffreyangus/CS106R/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+CS 106R is a pioneer, 7-week course developed by two master's students from Stanford University as a means to show high-school students the applications of Computer Science in the world of academia and research. The course balances emphasis on both the theory and applications of Computer Science by teaching the core principles of computational theory with a project-based curriculum. 
+By the end of the course, students will have a basic understanding of the skills necessary to build their own data science projects. Students will be able to process and analyze large datasets and create powerful programs capable of visualizing the nature of the data at hand.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/geoffreyangus/CS106R/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Course Logistics
+The course is a 7-week introductory Computer Science course that meets two days a week. We will be meeting with two sections (class groups) every week during the afternoon free period. Each class will consist of a lecture and a work session. Please email Geoffrey Angus (gangus@stanford.edu) or Sabri Eyuboglu (eyuboglu@stanford.edu) if you have any questions.
+## Where:
+Building A, Room 206 (Computer Lab)
+## When:
+Section 1: 1:00 pm—4:00 pm, Mondays and Wednesdays
+Section 2: 1:00 pm—4:00 pm, Tuesdays and Thursdays
