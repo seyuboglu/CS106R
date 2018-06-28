@@ -1,5 +1,6 @@
 ---
 title: About
+description: 
 ---
 
 We are two Computer Science students from Stanford University who have received fellowships through the Haas Center of Public Service. We are bringing four years of collective experience in introductory computer science education with us to Curitiba, where we will be implementing a Computer Science curriculum built specifically for introducing passionate high school students to the world of research at a University level.
