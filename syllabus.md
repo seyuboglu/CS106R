@@ -7,7 +7,7 @@ title: Syllabus
 - Variables, operators
 
 HW:
-- Handout 0: Python setup
+- Handout 0: [Python Setup](https://github.com/geoffreyangus/CS106R/docs/assignments/assignment0)
 - Handout 1: Operators
 
 ### Week 2:
