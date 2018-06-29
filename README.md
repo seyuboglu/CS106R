@@ -3,7 +3,7 @@ By the end of the course, students will have a basic understanding of the skills
 
 ---
 ## Course Logistics
-The course is a 7-week introductory Computer Science course that meets two days a week. We will be meeting with two sections (class groups) every week during the afternoon free period. Each class will consist of a lecture and a work session. Please email Geoffrey Angus (gangus@stanford.edu) or Sabri Eyuboglu (eyuboglu@stanford.edu) if you have any questions.
+The course is a 7-week introductory Computer Science course that meets two days a week. We will be meeting with two sections (class groups) every week during the afternoon free period. Each class will consist of a lecture and a work session. Please email the teaching staff at cs106r@gmail.com if you have any questions.
 ### Where:
 Building A, Room 206 (Computer Lab)
 ### When:
