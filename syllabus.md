@@ -2,6 +2,12 @@
 title: Syllabus
 ---
 
+Hello! Welcome to the syllabus page. If you have any questions about class logistics, please check out the [GitHub Wiki](https://github.com/geoffreyangus/CS106R/wiki). For example, for instructions on how to submit an assignment, check out [this section](https://github.com/geoffreyangus/CS106R/wiki/Assignment-Submission) of the wiki.
+
+If you have any questions regarding the assignments themselves, open up a [GitHub Issue](https://github.com/geoffreyangus/CS106R/issues). Instructions on how to open up an Issue can be found in [this section](https://github.com/geoffreyangus/CS106R/wiki/Asking-a-Question) of the wiki.
+
+---
+
 ### Week 1:
 - Introduction to Python
 - Variables, operators
