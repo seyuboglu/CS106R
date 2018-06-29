@@ -19,13 +19,16 @@
 .nav-bar a:first-child {
     margin-right: auto;
     margin-bottom: 0px;
-    height: 100%;
     float: left;
 }
 
 .nav-bar a {
     float: right;
     margin-bottom: 0px;
+}
+
+@media screen and (max-width: 42em) .nav-bar a {
+    margin-top: 1rem;
 }
 
 .page-name {
