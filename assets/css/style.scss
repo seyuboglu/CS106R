@@ -27,8 +27,10 @@
     margin-bottom: 0px;
 }
 
-@media screen and (max-width: 42em) .nav-bar a {
-    margin-top: 1rem;
+@media screen and (max-width: 42em) {
+    .nav-bar a {
+        margin-top: 1rem;
+    }
 }
 
 .page-name {
